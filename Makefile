@@ -1,4 +1,4 @@
-CROSS_COMPILE	?=
+CROSS_COMPILE	?= arm-linux-gnueabihf-
 ARCH		?= x86
 KERNEL_DIR	?= /usr/src/linux
 
